@@ -11,3 +11,5 @@ We hope that this project will be useful for improving early detection and preve
 This Repo is for an Arduino project that is used to Create a Heart Detection System that monitors the Heart Rate and sends an alarm to the 
 Medical Pofession who is monitoring the patients Vitals. 
 it also has a buzzer that goes off when unuasal heart Beat has been detetcted.
+
+added soem changes for testin 
